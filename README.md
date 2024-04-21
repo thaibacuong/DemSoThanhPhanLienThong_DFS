@@ -5,7 +5,7 @@ Bạn có thể cài đặt DApps SubProject bằng cách thực hiện các bư
 1. Clone repository này về máy của bạn:
 
    ```bash
-   git clone https://github.com/thaibacuong/QuanLyBanVeRapPhim.git
+   git clone https://github.com/thaibacuong/DemSoThanhPhanLienThong_DFS.git
 
 2. Cài đặt các package cần thiết:
 
